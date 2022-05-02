@@ -1,10 +1,11 @@
 # ⚛ ReactJS folders structure
 
-````📁 Assets
+```📁 Assets
 
 Here we group all of our media files.
 I personally prefer to create subfolders such as Images, Icons, Videos, Audios etc....
-You might want to put all of the components in one place, but you better break it into 2 folders. (Components & Containers).
+You might want to put all of the components in one place,
+but you better break it into 2 folders. (Components & Containers).
 
 📁 Components
 
@@ -69,4 +70,3 @@ A nice linting environment.
 Correct bad coding practices.
 
 Make your code clean and consistent.```
-````
