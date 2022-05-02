@@ -36,6 +36,7 @@
       }
     ],
     "no-plusplus": "off",
-    "default-case": "error"
+    "default-case": "error",
+    "react/display-name": "off"
   }
 }
