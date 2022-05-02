@@ -32,7 +32,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run format:prettier && npm run format:prettier"
+      "pre-commit": "npm run format:prettier && npm run format:prettier",
+      "pre-push": "npm run format:prettier && npm run format:prettier"
     }
   },
   "eslintConfig": {
