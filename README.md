@@ -1,7 +1,6 @@
 # ⚛ ReactJS folders structure
 
-``
-📁 Assets
+````📁 Assets
 
 Here we group all of our media files.
 I personally prefer to create subfolders such as Images, Icons, Videos, Audios etc....
@@ -69,6 +68,5 @@ A nice linting environment.
 
 Correct bad coding practices.
 
-Make your code clean and consistent.
-
-``
+Make your code clean and consistent.```
+````
