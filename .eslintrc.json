@@ -11,7 +11,7 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "plugins": ["prettier", "react"],
+  "plugins": ["react", "prettier"],
   "rules": {
     "no-octal-escape": "off",
     "no-unsafe-optional-chaining": "off",
